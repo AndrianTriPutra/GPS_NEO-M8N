@@ -8,4 +8,5 @@ step by step:
 2. go get github.com/argandas/serial
 3. go get github.com/adrianmo/go-nmea
 4. run that code
+
 atau kalian bisa ikutin ini https://andriantriputra.medium.com/golang-raspberry-chapter4-sensor-mhz19b-co2-concentration-e02080e17471
